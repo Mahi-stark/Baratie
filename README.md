@@ -1,8 +1,8 @@
 # Baratie
 
-https://github.com/user-attachments/assets/99e4d27f-a96c-4806-a22d-11a8514bb613
+https://github.com/user-attachments/assets/654aa823-7fb2-46ba-bd23-e60aa12a807a
 
-https://github.com/user-attachments/assets/897eec3c-98b2-45c0-b85b-f9ac9deffb4a
+https://github.com/user-attachments/assets/db9e4ea6-c2c5-493b-95c8-965cbce75461
 
 This is an anime themed online food ordering application using only java.
 Where as a CUSTOMER one can,
